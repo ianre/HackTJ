@@ -1,5 +1,4 @@
-//Day one, 1/25/16  /// literlat everytinh // *PROBLEMS WITHT EH TRAILS*//
-// a coda I
+
 
 package com.game.main;
 
